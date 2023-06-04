@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
  <h3 align="middle">Connect with me:</h3>
 <p align="middle">
-<a href="https://twitter.com/muzaffer_uguur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzaffer_uguur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muzafferuğur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzafferuğur" height="30" width="40" /></a>
-<a href="https://instagram.com/av.muzafferugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="av.muzafferugur" height="30" width="40" /></a>
+<a href="https://twitter.com/enes_mekselina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enes_mekselina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enes-mekselina-yasar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-mekselina-yasar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/enesm.yasar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesm.yasar" height="30" width="40" /></a>
 </p>
